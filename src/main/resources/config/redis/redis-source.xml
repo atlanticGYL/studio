@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<sources>
+    <source name="source1">
+        <properties key="host" value="127.0.0.1" />
+        <properties key="port" value="6379" />
+        <properties key="password" value="" />
+        <properties key="dbIndex" value="0" />
+        <properties key="redisPoolMaxActive" value="" />
+        <properties key="redisPoolMaxWait" value="" />
+        <properties key="redisPoolMaxIdle" value="" />
+        <properties key="redisPoolMinIdle" value="" />
+        <properties key="timeout" value="" />
+    </source>
+</sources>
